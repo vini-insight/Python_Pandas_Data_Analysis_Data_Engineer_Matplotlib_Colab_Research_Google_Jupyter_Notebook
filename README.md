@@ -10,4 +10,4 @@
         para executar esta linha de comando e automáticamente abre outra linha de comando.
 
 ###### Tabela parcial: Dados iniciais e finais
-![image](https://user-images.githubusercontent.com/7541966/129422287-00eae20a-77d1-4263-bceb-4dd03d0be78e.png)
+
