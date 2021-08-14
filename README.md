@@ -32,7 +32,7 @@
 </p>
 
 # Gráficos
-    <p>
-        <a href="https://matplotlib.org/">Matplotlib</a>
-    </p>
+<p>
+    <a href="https://matplotlib.org/">Matplotlib</a>
+</p>
 
