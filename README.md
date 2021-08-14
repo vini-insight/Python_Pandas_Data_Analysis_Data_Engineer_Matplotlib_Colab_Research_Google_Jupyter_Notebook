@@ -19,6 +19,8 @@
 
 <!-- ###### Tabela parcial: Dados iniciais e finais -->
 
+<!-- base de vendas fornecida pela Microsoft (AdventureWorks) -->
+
 <!-- ![](imgs/t1.png) DESSE JEITO APENAS PÕE A IMAGEM MAS NÃO ALINHA -->
 
 <p align="center">
