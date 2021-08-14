@@ -38,5 +38,5 @@
 
 # Pandas library
 <p>
-    <a href="https://pandas.pydata.org/">Matplotlib</a>
+    <a href="https://pandas.pydata.org/">Pandas library</a>
 </p>
