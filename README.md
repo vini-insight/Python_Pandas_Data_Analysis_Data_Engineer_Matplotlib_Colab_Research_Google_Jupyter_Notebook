@@ -27,18 +27,11 @@
 </p>
 
 <p align="center">
-
     Gráfico exemplo
-
     <img src="imgs/g1.png" alt="gráfico exemplo" />
 </p>
 
 <p>
     <a href="https://matplotlib.org/"></a>
 </p>
-
-# Graficos:
-        
-        <a href="https://matplotlib.org/"></a>
-
 
