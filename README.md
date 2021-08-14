@@ -2,7 +2,12 @@
 # Python Pandas Data Analysis Data Engineer Matplotlib Colab Research Google Jupyter Notebook
 
 ### Análise de dados de uma planilha contendo dados como Pais, continente, Ano, Expectativa de vida, População Total, e PIB per capita.
-### Usando Pandas é possível extrair informações como a expectativa de vida média para cada ano, entre outras informações.
+### Usando Pandas é possível extrair informações como:
+
+- contabilizar a expectativa de vida média de uma população para cada ano
+- filtrar as vendas por data específica
+- fazer agrupamentos assim como na instrução GROUP BY do SQL
+- e muito mais
 
         TIP:
         no Jupyter Notebook ou no Colab,
