@@ -23,14 +23,13 @@
 
 <p align="center">
     Tabela parcial: Dados iniciais e finais
-    <img src="imgs/t1.png" alt="tabela exemplo" />
+    <img src="imgs/t1.png" alt="tabela exemplo" />    
+</p>
 
+<p align="center">
     Gráfico exemplo
     <img src="imgs/g1.png" alt="gráfico exemplo" />
 </p>
-
-
-
 
 # Graficos:
 
