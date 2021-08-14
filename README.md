@@ -9,8 +9,9 @@
         aperte SHIFT + ENTER
         para executar esta linha de comando e automáticamente abre outra linha de comando.
 
-###### Tabela parcial: Dados iniciais e finais
-<!-- ![](imgs/t1.png) DESSE JEITO APENAS PÕE A IMAGEM MAS NÃO ALINHA-->
+<!-- ###### Tabela parcial: Dados iniciais e finais -->
+
+<!-- ![](imgs/t1.png) DESSE JEITO APENAS PÕE A IMAGEM MAS NÃO ALINHA -->
 
 <p align="center">
     Tabela parcial: Dados iniciais e finais
