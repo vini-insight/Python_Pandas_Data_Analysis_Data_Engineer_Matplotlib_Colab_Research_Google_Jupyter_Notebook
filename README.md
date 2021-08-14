@@ -10,7 +10,7 @@
         para executar esta linha de comando e automáticamente abre outra linha de comando.
 
 ###### Tabela parcial: Dados iniciais e finais
-![](imgs/t1.png)
+<!-- ![](imgs/t1.png) DESSE JEITO APENAS PÕE A IMAGEM MAS NÃO ALINHA-->
 
 <p align="center">
     <img src="imgs/t1.png" alt="centered image" />
