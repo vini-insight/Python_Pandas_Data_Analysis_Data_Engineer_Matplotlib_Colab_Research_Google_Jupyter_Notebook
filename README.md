@@ -13,5 +13,6 @@
 <!-- ![](imgs/t1.png) DESSE JEITO APENAS PÕE A IMAGEM MAS NÃO ALINHA-->
 
 <p align="center">
+    Tabela parcial: Dados iniciais e finais
     <img src="imgs/t1.png" alt="centered image" />
 </p>
