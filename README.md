@@ -27,10 +27,11 @@
 </p>
 
 <p align="center">
-    Gráfico exemplo
+    <br>Gráfico exemplo</br>
     <img src="imgs/g1.png" alt="gráfico exemplo" />
 </p>
 
+# Gráficos
 <p>
     <a href="https://matplotlib.org/">Matplotlib</a>
 </p>
