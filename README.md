@@ -12,6 +12,6 @@
 ###### Tabela parcial: Dados iniciais e finais
 ![](imgs/t1.png)
 
-<center>
+<p align="centered">
     <img src="imgs/t1.png" alt="centered image" />
-</center>
+</p>
