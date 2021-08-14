@@ -9,8 +9,7 @@ Original file is located at
 # ** Curso Python para análise de dados com (Pandas) ** - *Fernanda Santos*
 """
 # SHIFT + ENTER executa esta linha e para automáticamente na outra.
-# análise de dados de uma planilha contendo dados como Pais, continente, Ano, Expectativa de vida, População Total, e PIB per capita.
-# Usando Pandas é possível extrair informações como a expectativa de vida média para cada ano, entre outras informações.
+
 from google.colab import drive
 drive.mount('/content/drive')
 
