@@ -32,6 +32,6 @@
 </p>
 
 <p>
-    <a href="https://matplotlib.org/"></a>
+    <a href="https://matplotlib.org/">Matplotlib</a>
 </p>
 
